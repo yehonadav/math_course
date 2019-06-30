@@ -1,7 +1,8 @@
 ![struct](https://github.com/yehonadav/math_course/blob/master/five_units/806/struct.JPG?raw=true)  
 
 tutorials:  
-derivitives  https://www.youtube.com/watch?v=lEj3dzj2Doc  
+derivatives  https://www.youtube.com/watch?v=lEj3dzj2Doc  
+anti-derivatives  https://www.youtube.com/watch?v=WDZMjYJyH6k  
   
   
 exercises:  
